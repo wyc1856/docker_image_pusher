@@ -1,2 +1,5 @@
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
+mysql:8.0
+minio/minio:latest
+xuxueli/xxl-job-admin:2.4.1
