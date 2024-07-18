@@ -1,5 +1,5 @@
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
 mysql:8.0.13
-minio/minio:latest
+minio/minio:RELEASE.2023-04-28T18-11-17Z
 xuxueli/xxl-job-admin:2.4.1
