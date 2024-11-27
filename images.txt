@@ -4,3 +4,4 @@ mysql:8.0.13
 minio/minio:RELEASE.2023-04-28T18-11-17Z
 xuxueli/xxl-job-admin:2.4.1
 nacos/nacos-server:v2.1.1
+busybox:1.33
